@@ -9,5 +9,11 @@ namespace CarInformation
     class Car
     {
         private string id;
+
+        public void data()
+        {
+
+        }
+
     }
 }
